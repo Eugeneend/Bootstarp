@@ -1,0 +1,17 @@
+p{
+    background-color: #c9c9c9;
+}
+/* 
+.header {
+    justify-content: center;
+} */
+
+.test p{background-color:blueviolet ;}
+
+.icon{margin-right:15px;}
+
+
+@media screen and (min-width:768px) { .test p{background-color: greenyellow;}
+    
+}
+
